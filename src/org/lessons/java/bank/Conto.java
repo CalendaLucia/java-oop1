@@ -1,10 +1,11 @@
 package org.lessons.java.bank;
 
+//importazione classi helpers
 import java.text.DecimalFormat;
 import java.util.Random;
 
 public class Conto {
-   private int numeroConto;
+   private final int numeroConto;
    private String nomeCorrentista;
    private double saldo;
 

@@ -48,7 +48,7 @@ public class Bank {
                     break;
                 case 3:
                     // Esci dal sistema
-                    System.out.println("Esci");
+                    System.out.println("Arrivederci e grazie!");
                     break;
                 default:
                     System.out.println("Scelta non valida. Riprova.");
